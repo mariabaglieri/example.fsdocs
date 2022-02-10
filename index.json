@@ -1,0 +1,1 @@
+[{"uri":"/example.fsdocs/index.html","title":"index","content":"This is my page. My name is Maria\r\n"},{"uri":"/example.fsdocs/test.html","title":"test","content":"(** \nThis is my second file\n*)\nlet list=[1;2;3]"}]
